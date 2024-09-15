@@ -1,4 +1,4 @@
-# hackmty2024
+# hackMty2024
 
 En primera instancia, esta no es una simple aplicación para agregar aquellas metas que te has propuesto, ya que además de tener función, nosotros en escalarla al siguiente nivel, por lo que se creó “INVICTOS”, una red social especializada en la interacción a través de tus hábitos, cuyo slogan es “Tan lejos como tú quieras llegar”.
 
