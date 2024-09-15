@@ -84,7 +84,3 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 - Siempre realiza una copia de seguridad de tus datos y configuraciones antes de importar nuevas aplicaciones.
 - Verifica la versión de Oracle APEX en tu entorno para asegurarte de que sea compatible con la aplicación exportada.
 
-## Conclusión
-
-Siguiendo estos pasos, puedes importar fácilmente aplicaciones en Oracle APEX utilizando archivos `.sql` exportados. Este proceso es esencial para migrar aplicaciones entre entornos o restaurar aplicaciones desde copias de seguridad.
-
