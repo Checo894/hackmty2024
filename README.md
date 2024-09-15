@@ -1,5 +1,11 @@
 # hackMty2024
 
+## Video Demostrativo
+
+Enlace: https://youtu.be/W_B2TBCoH-Q
+
+## Descripción de la Aplicación
+
 En primera instancia, esta no es una simple aplicación para agregar aquellas metas que te has propuesto, ya que además de tener función, nosotros en escalarla al siguiente nivel, por lo que se creó “INVICTOS”, una red social especializada en la interacción a través de tus hábitos, cuyo slogan es “Tan lejos como tú quieras llegar”.
 
 En primera instancia, hemos de aclarar que en ningún momento se utilizó ninguna otra plataforma o lenguaje de programación más allá del ofrecido por Oracle APEX, por lo que, si bien no estábamos del todo familiarizados del todo con la plataforma, aún así conseguimos desarrollar una demo lo más cercana posible a nuestra idea original.
